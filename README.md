@@ -2,7 +2,8 @@
 
 This is an exercise as part of Module 24 of MIT xPro Full Stack Bootcamp
 
-This repository contains the code for a GraphQL server that handles restaurant data. It provides queries and mutations to retrieve and update restaurant information.
+This project is part of a programming assignment that focuses on using GraphQL to query and update restaurant data. The goal is to build a GraphQL server that provides a simplified view of the data and makes it easier to retrieve and modify restaurant information.
+
 
 ## Getting Started
 
@@ -36,15 +37,15 @@ To get started with this project, follow the instructions below.
 
 The server will start running on http://localhost:5500. You can access the GraphQL Playground to explore and interact with the API.
 
-### Usage
+### Features
 
 This GraphQL server provides the following queries and mutations:
 
-- restaurant: Retrieves a single restaurant based on a provided ID.
-- restaurants: Retrieves a list of all restaurants.
-- setrestaurant: Creates a new restaurant.
-- deleterestaurant: Deletes a restaurant based on the provided ID.
-- editrestaurant: Updates a restaurant based on the provided ID.
+- Retrieve a single restaurant based on its ID
+- Retrieve a list of all restaurants
+- Create a new restaurant entry
+- Delete an existing restaurant based on its ID
+- Update the details of a restaurant based on its ID
 
 ## License:
 
