@@ -1,0 +1,16 @@
+{
+  "name": "mod24-graphql-restaurant",
+  "version": "1.0.0",
+  "description": "GraphQL Restaurant Data Exercise for Module 24 MIT Coding Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gemma Fong",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0"
+  }
+}
